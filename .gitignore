@@ -1,3 +1,10 @@
+#Emacs
+*~
+
+# Build
+build
+cmake-build*
+
 # Prerequisites
 *.d
 
